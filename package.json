@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/graphicagenda.lwc-kz57jrxd",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve DJ8Usu7A0Gs06GEpYfri --open"
+  }
+}
